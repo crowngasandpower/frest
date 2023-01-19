@@ -1,0 +1,10 @@
+{
+  "name": "frest",
+  "version": "1.0.0",
+  "description": "Frest UI theme for Crown applications.",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/crowngasandpower/frest"
+  },
+  "license": "MIT"
+}
